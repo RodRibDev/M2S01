@@ -1,0 +1,15 @@
+h1 {
+    background-color: bisque;
+}
+
+p {
+    color: rgb(210, 30, 150);
+    font-size: large;
+}
+
+.introducao {
+    
+    background-color: #cecece;
+    padding: 20px;
+    border-radius: 8px;
+    };
